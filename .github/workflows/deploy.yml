@@ -23,7 +23,7 @@
 "uses": "actions/setup-node@v4",
 "with": { "node-version": 18 }
 },
-{ "name": "Install", "run": "npm ci" },
+{ "name": "Install", "run": "npm instal" },
 { "name": "Build", "run": "npm run build" },
 {
 "name": "Upload artifact",

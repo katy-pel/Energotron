@@ -123,6 +123,3 @@ Parametry výkonů a omezení jsou vzdělávací aproximace pro hratelnost, ne o
 
 Licence
 Volně k použití pro vzdělávací účely. Pokud plánuješ veřejné nasazení pod vlastní značkou, uveď prosím zdroj.
-
-Poděkování
-Díky za nápad a testování. Pokud najdeš chybu nebo máš nápad na vylepšení, otevři Issue nebo pošli Pull Request.
